@@ -21,7 +21,7 @@ driver = webdriver.Chrome(options=options)
 
 sleep(1)
 driver.execute_script("window.open();")
-sleep(.75)
+sleep(1)
 driver.switch_to.window(driver.window_handles[1])
 driver.get(which_lesson(True))
 sleep(2.5)
