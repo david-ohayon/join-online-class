@@ -12,7 +12,6 @@ history_lesson_link_tsipi = 'https://chperber.my.webex.com/meet/chperber'
 hebrew_lesson_link = 'https://us04web.zoom.us/j/77765386769?pwd=UE51NmNjL2Y1elNlMW0rcXJyUkNWZz09'
 literature_lesson_link = 'https://edu-il.zoom.us/j/9655244107?pwd=c1h5RGNyYUs5QndDUHpqTFMyUmFqUT09'
 
-
 monday = date.today().weekday() == 0
 tuesday = date.today().weekday() == 1
 wednesday = date.today().weekday() == 2
